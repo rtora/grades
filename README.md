@@ -19,7 +19,7 @@ The data will be updated annually at the beginning of each year. The data for th
 Requests were made for data from every UC and CSU. However, some institutions did not respond, while others requested payment, which was not feasible due to budget constraints. If you wish to fund data acquisition from your university, please contact me. Below is a list of schools from which data was not obtained, including reasons and requested payments:
 
 - UC Riverside: No response
-- UCSF: Data not readily available
+- UCSF: "The data you seek is neither regularly nor routinely reported and is not found in any existing record."
 - CSU Bakersfield: $1,920
 - CSU Dominguez Hills: No response
 - Fresno State: $1,950
@@ -27,7 +27,7 @@ Requests were made for data from every UC and CSU. However, some institutions di
 - CSU Long Beach: $1,398
 - CAL Maritime: No response
 - CSU Monterey Bay: $186.24
-- CSUN: Data available in PDF (conversion to CSV needed)
+- CSUN: Data available [here](https://drive.google.com/file/d/1mdKzOsMGMawbRyODiLOhDV8iK4kVoS9y/view?usp=sharing) (conversion to CSV needed)
 - San Diego State: $5,000
 - Cal Poly San Luis Obispo: $5,000 (all data), $2,500 (last 3 years)
 - Sonoma State: $900
