@@ -32,6 +32,9 @@ Requests were made for data from every UC and CSU. However, some institutions di
 - Cal Poly San Luis Obispo: $5,000 (all data), $2,500 (last 3 years)
 - Sonoma State: $900
 - Stanislaus State: No response
+#### 2023 grades
+- UC Merced: $393.89
+
 
 ## Contributing
 ### How can I add data for my school?
