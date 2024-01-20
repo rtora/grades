@@ -34,6 +34,9 @@ Requests were made for data from every UC and CSU. However, some institutions di
 - Stanislaus State: No response
 #### 2023 grades
 - UC Merced: $393.89
+- UCSC: $283
+- CSUMB: $102.66
+- 
 
 
 ## Contributing
