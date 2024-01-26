@@ -36,7 +36,8 @@ Requests were made for data from every UC and CSU. However, some institutions di
 - UC Merced: $393.89
 - UCSC: $283
 - CSUMB: $102.66
-- 
+- SFSU $325.75
+- UCLA $150
 
 
 ## Contributing
